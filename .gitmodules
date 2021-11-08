@@ -1,0 +1,3 @@
+[submodule "lib/Socket_ahk2"]
+	path = lib/Socket_ahk2
+	url = https://github.com/TheArkive/Socket_ahk2
